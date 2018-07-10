@@ -4,7 +4,7 @@ Mike Harms
 
 July 11, 2018
 
-Slides: [harmsm.github.io/harmsm/scientific-posters](https://harmsm.github.io/harmsm/scientific-posters)
+Slides: [harmsm.github.io/scientific-posters](https://harmsm.github.io/scientific-posters)
 >>>
 What is the purpose of a poster presentation?
 <div class="fragment" style="color:blue">
@@ -70,8 +70,8 @@ This is a *persuasive* poster arguing that your problem is important and that yo
     <li>Set up your graphics so the evidence supporting your claim is clear</li>
 </ul>
 >>>
-<ul>
 ####Some practical rules of thumb:
+<ul>
     <li>Never go below 30 point font</li>
     <li>Never have an image below 300 dots per inch, or a graphic smaller than 4x4 inches.</li>
     <li>Use a vector graphics program like Illustrator or Inkscape (free), <bold>not</bold> Powerpoint</li>
