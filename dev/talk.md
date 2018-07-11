@@ -4,7 +4,6 @@ Mike Harms
 
 July 11, 2018
 
-Slides: [harmsm.github.io/scientific-posters](https://harmsm.github.io/scientific-posters)
 >>>
 What is the purpose of a poster presentation?
 <div class="fragment" style="color:blue">
@@ -22,11 +21,14 @@ Who is your audience?
 <div class="fragment" style="color:blue">
     Tipsy scientist in a hurry.
 </div>
+<div class="fragment">Persuade them that your science is worth their time.</div>
 >>>
 Is a poster expository, persuasive, narrative, or descriptive writing?
 <div class="fragment" style="color:blue">
     Scientific presentations are <em>persuasive</em>.<br/>
-    You are making a case that:<br/>
+</div>
+<div class="fragment">
+    Make a case that:<br/>
     <ul>
         <li>Your problem is worth solving</li>
         <li>You have solved it</li>
@@ -41,7 +43,7 @@ Is a poster expository, persuasive, narrative, or descriptive writing?
 >>>
 ###Principles
 <ul>
-    <li>Woo your audience: people have to choose your poster among many</li>
+    <li>Persuade your audience: tell them why they should care about the science</li>
     <li class="fragment">Be excited about your science</li>
     <li class="fragment">Make your poster a conversation</li>
 </ul>
@@ -65,16 +67,18 @@ Is a poster expository, persuasive, narrative, or descriptive writing?
 ####Visual principles: 
 This is a *persuasive* poster arguing that your problem is important and that you've solved it. 
 <ul>
-    <li>Every bit of ink should support your case</li>
-    <li>Each heading/title should be a <em>claim</em> supported by evidence</li>
-    <li>Set up your graphics so the evidence supporting your claim is clear</li>
+    <li class="fragment">Every bit of ink should support your case</li>
+    <li class="fragment">Each heading/title should be a <em>claim</em> supported by evidence</li>
+    <li class="fragment">Set up your graphics so the evidence supporting your claim is clear</li>
 </ul>
 >>>
-####Some practical rules of thumb:
+####Some practical rules:
 <ul>
-    <li>Never go below 30 point font</li>
-    <li>Never have an image below 300 dots per inch, or a graphic smaller than 4x4 inches.</li>
-    <li>Use a vector graphics program like Illustrator or Inkscape (free), <bold>not</bold> Powerpoint</li>
+    <li>Minimize text.</li>
+    <li class="fragment">Never go below 30 point font.</li>
+    <li class="fragment">Never have an image below 300 dots per inch, or a graphic smaller than 4x4 inches.</li>
+    <li class="fragment">Use a vector graphics program like Illustrator or Inkscape (free), <bold>not</bold> Powerpoint.</li>
+    <li class="fragment">If you print the poster out on a normal piece of paper, you should still be able to read it.</li>
 </ul>
 >>>
 ![sm.image](data/bad_poster_bingo.png) height="55%" width="55%"
@@ -82,5 +86,10 @@ This is a *persuasive* poster arguing that your problem is important and that yo
 ![sm.inkscape](data/example-poster.svg)
 >>>
 ####Conclusion:
-+ You should use your poster to facilitate conversation
-+ Your poster should make a scientific case
+<ol>
+    <li class="fragment">A poster should be <em>persuasive</em>: "This question is interesting." and "I have answered the question."</li>
+    <li class="fragment">A poster presentation should be a conversation</li>
+    <li class="fragment">A poster should be designed to achieve #1 and #2.</li>
+</ol>
+    
+Slides: [harmsm.github.io/scientific-posters](https://harmsm.github.io/scientific-posters)
